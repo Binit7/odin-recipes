@@ -1,1 +1,4 @@
 # odin-recipes
+This is te first project on the odin project foundations course. This is a readme file from the repo of this project. It doesnt contain much. Its just a bunch of random words. Wouldn't really call it a rambling. Just some words that don't make any sense. But well whatever. I'm just bored and thought that modifying this file was a good idea to practice modifying a file. I mean that's how it is done, right?
+
+Anyways, what's the deal with these lampshades, amirite guys? Do you want the light from the lamp or the shade? Also what's the point of mini cupcakes? You're making a mini version of a cupcale, which is already a mini version of cake?!Seriously, where does it end with you guys? 
